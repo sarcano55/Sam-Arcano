@@ -1,0 +1,6 @@
+{
+  "name": "GEO Citation Readiness Studio",
+  "description": "Privacy-first, 100% client-side diagnostic and formatting workbench that helps B2B founders, marketers, and creators make content citable by ChatGPT, Gemini, Perplexity, and Claude.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
